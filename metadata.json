@@ -1,0 +1,6 @@
+{
+  "name": "Kampala Luxury Mobile Massage",
+  "description": "A premium, high-converting mobile massage booking and discovery application for Kampala, Uganda. Experience professional in-home, hotel, or office therapy 24/7 with customized spa packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
